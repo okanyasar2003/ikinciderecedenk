@@ -1,1 +1,1 @@
-# ikinciderecedenk
+# İKİNCİ DERECDEN DENKLEM JAVA 
